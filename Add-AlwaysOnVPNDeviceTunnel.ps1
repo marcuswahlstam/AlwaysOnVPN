@@ -27,7 +27,7 @@
     This script will create an Always On VPN device tunnel on supported Windows 10 devices
 
 .LINK
-    https://github.com/
+    https://github.com/marcuswahlstam/AlwaysOnVPN/blob/main/Add-AlwaysOnVPNDeviceTunnel.ps1
 
 .NOTES
     Creation Date:      April 13, 2021
